@@ -1,0 +1,31 @@
+.logo-search-header img{
+    height: 90px;
+}
+
+.header{
+    color: #969696
+}
+
+.login-nav-bar{
+    height: 30px;
+}
+
+
+.header .login-nav-bar{
+    height: 30px;
+}
+.header .btn-github{
+    background-image: url("/images/GitHub-Mark-Light-32px.png") !important;
+    color: #fff;
+    background-color: #444;
+    border-color: rgba(0,0,0,0.2);
+    background-repeat: no-repeat;
+    background-position: 5px;
+    width: 200px;
+    margin-right: 5px;
+
+    
+}
+.btn-github:hover{
+    color: rgba(200,200,200,0.5);
+}

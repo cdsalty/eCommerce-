@@ -1,0 +1,20 @@
+body{
+  background-image: url('/images/final-fantasy-vii-hd-wallpapers-33116-3206975.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.login{
+  display: inline-block; padding: 32px 48px 0px 48px; border: 1px solid #EEE;
+ }
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
